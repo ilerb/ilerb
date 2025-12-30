@@ -16,7 +16,7 @@
 
 <p>
   <!-- Currently Learning -->
-  <strong>Currently Learning</strong><br>
+  <strong>Currently Learning:</strong><br>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -25,7 +25,7 @@
 
 <p>
   <!-- Knowledge -->
-  <strong>Knowledges</strong><br>
+  <strong>Knowledge:</strong><br>
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
   <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"></a>
   <a href="#"><img alt="SSMS" src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"></a>
@@ -33,7 +33,7 @@
 
 <p>
   <!-- Tools & Software -->
-  <strong>Tools & Software</strong><br>
+  <strong>Tools & Software:</strong><br>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio 2022" src="https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
@@ -45,7 +45,7 @@
 
 <p>
   <!-- Others -->
-  <strong>Others</strong><br>
+  <strong>Others:</strong><br>
   <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
 </p>
 
